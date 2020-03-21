@@ -1,0 +1,19 @@
+SAS OutputThe SAS System
+
+
+The FREQ Procedure
+      DMFrequencyPercentCumulative
+      FrequencyCumulative
+      Percent
+      0214796.28214796.28
+      1833.722230100.00
+
+
+
+      countFrequencyPercentCumulative
+      FrequencyCumulative
+      Percent
+      0214796.28214796.28
+      1833.722230100.00
+
+
